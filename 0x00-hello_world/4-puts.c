@@ -2,8 +2,8 @@
 
 
 /**
- *main : Entry Point of the function aline with puts
-
+ *main - Entry Point of the function a line with puts
+ *
  *Return: 0 for succesful exit
 */
 
