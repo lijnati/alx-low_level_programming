@@ -2,10 +2,10 @@
 
 
 /**
- *main : Entry Point
- *
+ *main : Entry Point of the function aline with puts
+
  *Return: 0 for succesful exit
- */
+*/
 
 int main(void)
 {
