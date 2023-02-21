@@ -7,6 +7,24 @@
    */
 int main(void)
 {
-  printf("_putchar\n");
-  return 0;
+	int i = 0;
+	char print[9];
+
+	print [0] = 95;
+	print [1] = 112;
+	print [2] = 117;
+	print [3] = 116;
+	print [4] = 99;
+	print [5] = 104;
+	print [6] = 97;
+	print [7] = 114;
+	print [8] = 10;
+
+	while (i <= 8)
+	{
+		putchar(print[i]);
+		++i;
+	}
+
+	return (0);
 }
