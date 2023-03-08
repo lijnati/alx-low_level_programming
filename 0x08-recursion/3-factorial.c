@@ -4,6 +4,7 @@
  * @n:int
  * Return:int
  */
+
 int factorial(int n)
 {
 	int x;
