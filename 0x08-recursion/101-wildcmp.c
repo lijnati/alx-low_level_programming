@@ -8,6 +8,7 @@
  * @j: special index. (joker)
  * Return: 1 if s is palindrome, 0 otherwise.
  */
+
 int str_checker(char *s1, char *s2, int i, int j)
 {
 	if (s1[i] == '\0' && s2[j] == '\0')
